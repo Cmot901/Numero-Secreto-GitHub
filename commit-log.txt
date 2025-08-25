@@ -1,0 +1,85 @@
+commit d47b30b644e20c9ff767247d3b312b76d94a0ba1
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Wed Aug 6 16:00:15 2025 -0300
+
+    substituicao de rersponsive voice por speechsyntesys
+
+commit b81e3fb64af2c8325461550195f5c0738c876425
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Wed Aug 6 15:54:21 2025 -0300
+
+    gitignore local certo
+
+commit 7e268be7aeb88c8b967680f52cc9c112e884049a
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Wed Aug 6 15:53:01 2025 -0300
+
+    Descubra o numero secreto e gitignore
+
+commit 4ad1e5398c72e895d3b3f455754b9b051c4ee67e
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 15:27:45 2025 -0300
+
+    Reapply "Deixando o jogo mais facil ainda"
+    
+    This reverts commit af5ba8ca2f9b1d6fcf47f796a8d6803172866dd2.
+
+commit af5ba8ca2f9b1d6fcf47f796a8d6803172866dd2
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 15:26:49 2025 -0300
+
+    Revert "Deixando o jogo mais facil ainda"
+    
+    This reverts commit 00e0ce873481bd638c76d31de54ac26e3e891fdb.
+
+commit 00e0ce873481bd638c76d31de54ac26e3e891fdb
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 15:23:31 2025 -0300
+
+    Deixando o jogo mais facil ainda
+
+commit ae84e0449c4d587321e704de4385b33b4459364c
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 15:12:40 2025 -0300
+
+    Reapply "Deixando o jogo mais facil"
+    
+    This reverts commit fe6b4f6e651166351e31e057e2b88f43340b9084.
+
+commit fe6b4f6e651166351e31e057e2b88f43340b9084
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 15:09:01 2025 -0300
+
+    Revert "Deixando o jogo mais facil"
+    
+    This reverts commit 4513f4a01f708835ff98faf796311ba733d5acc5.
+
+commit 4513f4a01f708835ff98faf796311ba733d5acc5
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 14:43:50 2025 -0300
+
+    Deixando o jogo mais facil
+
+commit 8e25986152e2b367e89984af17262dfe940cb153
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Jul 31 13:03:47 2025 -0300
+
+    alterando limite para 100
+
+commit 6698636e399f244a286a6ca64946311056a99445
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Mar 27 01:36:00 2025 -0300
+
+    Mudança do limite de 100 para 1000
+
+commit a55ac75924e503d26c7ea4640831431448c6a9db
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Mar 27 01:24:22 2025 -0300
+
+    Mudança de numero maximo de 10 para 100
+
+commit eae8ecb513bb21172aa99bddef328af2248e7454
+Author: Cmot901 <cavalcanti.mota120@gmail.com>
+Date:   Thu Mar 27 00:34:35 2025 -0300
+
+    projeto inicial
